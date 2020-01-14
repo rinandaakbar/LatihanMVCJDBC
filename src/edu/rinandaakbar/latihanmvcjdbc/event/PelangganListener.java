@@ -10,7 +10,10 @@ import edu.rinandaakbar.latihanmvcjdbc.model.PelangganModel;
 
 /**
  *
- * @author Rizki Adam Kurniawan
+ * @author
+ * Nama     : Rinanda Al Qorrie Akbar
+ * NIM      : 10116458
+ * Kelas    : PBOUlang
  */
 public interface PelangganListener {
     

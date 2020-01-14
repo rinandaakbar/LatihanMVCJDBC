@@ -7,7 +7,10 @@ package edu.rinandaakbar.latihanmvcjdbc.error;
 
 /**
  *
- * @author Rizki Adam Kurniawan
+ * @author
+ * Nama     : Rinanda Al Qorrie Akbar
+ * NIM      : 10116458
+ * Kelas    : PBOUlang
  */
 public class PelangganException extends Exception {
 

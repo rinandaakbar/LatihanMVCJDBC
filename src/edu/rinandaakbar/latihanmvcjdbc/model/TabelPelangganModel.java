@@ -12,7 +12,10 @@ import javax.swing.table.AbstractTableModel;
 
 /**
  *
- * @author Rizki Adam Kurniawan
+ * @author
+ * Nama     : Rinanda Al Qorrie Akbar
+ * NIM      : 10116458
+ * Kelas    : PBOUlang
  */
 public class TabelPelangganModel extends AbstractTableModel {
 

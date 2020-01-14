@@ -12,7 +12,10 @@ import javafx.scene.input.KeyCode;
 
 /**
  *
- * @author Rizki Adam Kurniawan
+ * @author
+ * Nama     : Rinanda Al Qorrie Akbar
+ * NIM      : 10116458
+ * Kelas    : PBOUlang
  */
 public interface PelangganDao {
 
